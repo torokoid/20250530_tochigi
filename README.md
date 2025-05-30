@@ -190,7 +190,7 @@ p.note { display: none; }
 <h2><span class="yellow">お昼はFKDのお寿司屋さんで３食丼</span></h2>
 <a href="20250530_034.JPG" target="_blank"><img src="20250530_034.JPG" alt="サンプル画像" width="900" /></a>
     
-<h2><span class="yellow">お花屋さんの百合が見事でした</span></h2>
+<h2><span class="yellow">お花屋さんのお花達も見事でした</span></h2>
 <a href="20250530_035.JPG" target="_blank"><img src="20250530_035.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250530_036.JPG" target="_blank"><img src="20250530_036.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250530_037.JPG" target="_blank"><img src="20250530_037.JPG" alt="サンプル画像" width="900" /></a>
